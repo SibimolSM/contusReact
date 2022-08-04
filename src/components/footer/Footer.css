@@ -1,0 +1,33 @@
+.footerHead {
+    background-color: #303235;
+    color           : #9C9C9C;
+    display         : flex;
+    padding         : 16px;
+}
+
+.copyright {
+    margin-left: 100px;
+}
+
+span ul {
+    display        : flex;
+    list-style-type: none;
+    margin         : 0;
+}
+
+li {
+    padding-left: 17px;
+    color       : #9C9C9C !important;
+}
+
+li:hover {
+    text-decoration: underline;
+    color          : #9C9C9C !important;
+}
+
+
+
+a {
+    color          : #9C9C9C !important;
+    text-decoration: none;
+}

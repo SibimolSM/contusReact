@@ -1,0 +1,13 @@
+Button:hover {
+
+    color           : #FF4667;
+    background-color: #f4dde1 !important;
+}
+
+.container-box {
+    width        : 100%;
+    padding-right: var(--bs-gutter-x, .75rem);
+    padding-left : var(--bs-gutter-x, .75rem);
+    margin-right : auto;
+    margin-left  : auto;
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="4.725" viewBox="0 0 8 4.725">
+  <g id="down-arrow" transform="translate(0 -100.698)">
+    <g id="Group_383" data-name="Group 383" transform="translate(0 100.698)">
+      <path id="Path_610" data-name="Path 610" d="M7.872,101.093l-.262-.264a.439.439,0,0,0-.619,0L4,103.818l-2.993-2.993a.439.439,0,0,0-.619,0l-.262.262a.438.438,0,0,0,0,.619l3.563,3.576a.447.447,0,0,0,.31.14H4a.447.447,0,0,0,.309-.14l3.56-3.566A.442.442,0,0,0,8,101.4.438.438,0,0,0,7.872,101.093Z" transform="translate(0 -100.698)" fill="#222"/>
+    </g>
+  </g>
+</svg>

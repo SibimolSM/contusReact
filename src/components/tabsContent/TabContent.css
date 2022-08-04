@@ -1,0 +1,19 @@
+.tabHeader {
+    font-size    : 55px;
+    font-weight  : 600;
+    text-align   : left;
+    margin-bottom: 18px;
+    margin-top   : 90px;
+
+}
+
+.tabSubhead {
+    margin-top   : 40px;
+    margin-bottom: 10px;
+    font-size    : 28px;
+    color        : #FF4667;
+}
+
+.tabImg {
+    object-fit: cover;
+}
